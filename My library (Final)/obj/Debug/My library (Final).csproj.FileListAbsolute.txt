@@ -1,0 +1,13 @@
+C:\Users\Usuario\Documents\Programación Orientada a Objetos\My library (Final)\My library (Final)\bin\Debug\My library (Final).exe.config
+C:\Users\Usuario\Documents\Programación Orientada a Objetos\My library (Final)\My library (Final)\bin\Debug\My library (Final).exe
+C:\Users\Usuario\Documents\Programación Orientada a Objetos\My library (Final)\My library (Final)\bin\Debug\My library (Final).pdb
+C:\Users\Usuario\Documents\Programación Orientada a Objetos\My library (Final)\My library (Final)\bin\Debug\System.Data.SQLite.dll
+C:\Users\Usuario\Documents\Programación Orientada a Objetos\My library (Final)\My library (Final)\obj\Debug\My library (Final).csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\Programación Orientada a Objetos\My library (Final)\My library (Final)\obj\Debug\My_library__Final_.Properties.Resources.resources
+C:\Users\Usuario\Documents\Programación Orientada a Objetos\My library (Final)\My library (Final)\obj\Debug\My library (Final).csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\Programación Orientada a Objetos\My library (Final)\My library (Final)\obj\Debug\My library (Final).csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Programación Orientada a Objetos\My library (Final)\My library (Final)\obj\Debug\My library (Final).csproj.CopyComplete
+C:\Users\Usuario\Documents\Programación Orientada a Objetos\My library (Final)\My library (Final)\obj\Debug\My library (Final).exe
+C:\Users\Usuario\Documents\Programación Orientada a Objetos\My library (Final)\My library (Final)\obj\Debug\My library (Final).pdb
+C:\Users\Usuario\Documents\Programación Orientada a Objetos\My library (Final)\My library (Final)\obj\Debug\My_library__Final_.MainForm.resources
+C:\Users\Usuario\Documents\Programación Orientada a Objetos\My library (Final)\My library (Final)\obj\Debug\My_library__Final_.OrderByName.resources
